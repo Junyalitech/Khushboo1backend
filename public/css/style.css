@@ -1,0 +1,13 @@
+.Addlogo {
+    margin: 10px;
+    /* Add other styles as needed */
+  }
+  
+  .Addlogo img {
+    width: 200px; /* Set your desired width */
+    height: auto; /* Maintain aspect ratio */
+    /* Add other styles as needed */
+  }
+  .Addtext{
+    text-align: right;
+  }
