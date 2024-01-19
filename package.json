@@ -4,7 +4,7 @@
   "main": "index.js",
   "proxy": "https://http://localhost:5000",
   "scripts": {
-    
+    "dev": "env-cmd -f ./.env nodemon ./src/index.js",
     "build": "",
     "start": "npm run dev"
   },
