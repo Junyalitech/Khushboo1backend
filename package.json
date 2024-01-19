@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "env-cmd -f ./.env nodemon ./src/index.js",
     "build": "",
-    "start": "node ./src/index.js"
+    "start": "npm run dev"
   },
   "author": "",
   "license": "ISC",
